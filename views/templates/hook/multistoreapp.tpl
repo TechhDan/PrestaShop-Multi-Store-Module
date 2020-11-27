@@ -1,0 +1,1 @@
+<h1>{$multistoreapp.text nofilter}</h1>
